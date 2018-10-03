@@ -1,6 +1,6 @@
 ## poc-glass-deliver
-** Cokolwiek
-** Cokolwiek razy 2
-*item
+** Cokolwiek lala
+** Cokolwiek razy 2 lala
+*item lala
 ** Zmieniam
 ABC
